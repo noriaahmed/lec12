@@ -109,3 +109,8 @@ section .main_btn a{
     margin-right: 5px;
     text-decoration: none;
 }
+
+section .main_btn i{
+    color: #fff;
+    transition: 0.3s;
+}
