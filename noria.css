@@ -630,3 +630,11 @@ section .main_btn:hover i{
     top: 25%;
     transition: 0.4s;
 }
+.team .team_box .profile:hover .info{
+    top: 60%;
+}
+
+.team .team_box .profile .info .name{
+    color: #fac031;
+    margin-bottom: 15px;
+}
