@@ -114,3 +114,6 @@ section .main_btn i{
     color: #fff;
     transition: 0.3s;
 }
+section .main_btn:hover i{
+    transform: translateX(7px);
+}
