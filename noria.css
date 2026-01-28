@@ -215,3 +215,14 @@ section .main_btn:hover i{
 .menu .menu_box .menu_card .menu_image:hover img{
     transform: scale(1.1);
 }
+.menu .menu_box .menu_card .small_card{
+    width: 45px;
+    height: 45px;
+    float: right;
+    position: relative;
+    top: -240px;
+    right: -8px;
+    opacity: 0;
+    border-radius: 7px;
+    transition: 0.3s;
+}
