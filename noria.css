@@ -123,3 +123,8 @@ section .main_btn:hover i{
     align-items: center;
     justify-content: space-around;
 }
+.about .about_main .image img{
+    width: 800px;
+    position: relative;
+    top: 60px;
+}
