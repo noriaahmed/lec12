@@ -116,4 +116,5 @@ section .main_btn i{
 }
 section .main_btn:hover i{
     transform: translateX(7px);
+
 }
