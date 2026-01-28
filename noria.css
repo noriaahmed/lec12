@@ -618,3 +618,15 @@ section .main_btn:hover i{
     z-index: 2;
     transition: 0.4s;
 }
+
+.team .team_box .profile:hover img{
+    border-radius: 20px;
+    margin-top: -230px;
+}
+
+.team .team_box .profile .info{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    transition: 0.4s;
+}
