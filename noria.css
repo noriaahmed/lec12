@@ -118,3 +118,8 @@ section .main_btn:hover i{
     transform: translateX(7px);
 
 }
+.about .about_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
