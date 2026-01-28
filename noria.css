@@ -515,3 +515,20 @@ section .main_btn:hover i{
     grid-template-columns: 1fr 1fr;
     grid-gap: 0 10px;
 }
+.order .order_main form .input p{
+    line-height: 25px;
+}
+
+.order .order_main form .input{
+    margin: 5px;
+}
+
+.order .order_main form .input input{
+    width: 300px;
+    height: 35px;
+    padding: 0 10px;
+    border: 2px solid #cccccc;
+    background: #eeeeee;
+    outline: none;
+    border-radius: 3px;
+}
