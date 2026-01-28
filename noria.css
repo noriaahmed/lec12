@@ -247,3 +247,11 @@ section .main_btn:hover i{
 .menu .menu_box .menu_card .small_card i:hover{
     color: #fac031;
 }
+
+.menu .menu_box .menu_card .menu_info h2{
+    width: 60%;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    font-size: 25px;
+    color: #fac031;
+}
