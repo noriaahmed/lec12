@@ -49,3 +49,6 @@ section nav ul li a::after{
     display: block;
     transition: 0.2s linear;
 }
+section nav ul li a:hover::after{
+    width: 100%;
+}
