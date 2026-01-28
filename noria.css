@@ -578,3 +578,14 @@ section .main_btn:hover i{
     position: relative;
     bottom: 15px;
 }
+
+
+.team .team_box{
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 13%;
+}
