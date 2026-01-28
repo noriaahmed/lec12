@@ -399,3 +399,8 @@ section .main_btn:hover i{
     bottom: 15px;
     display: block;
 }
+.review .review_box{
+    width: 95%;
+    margin: 70px auto;
+    display: flex;
+}
