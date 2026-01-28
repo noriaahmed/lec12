@@ -87,3 +87,11 @@ section .main .men_text h1 span{
     line-height: 22px;
     font-size: 70px;
 }
+section p{
+    width: 650px;
+    text-align: justify;
+    position: relative;
+    left: 123px;
+    bottom: 120px;
+    line-height: 22px;
+}
