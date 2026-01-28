@@ -419,3 +419,6 @@ section .main_btn:hover i{
     position: relative;
     transition: 0.3s;
 }
+.review .review_box .review_card:hover .review_profile{
+    transform: translateY(-60px);
+}
