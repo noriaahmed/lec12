@@ -433,3 +433,8 @@ section .main_btn:hover i{
 .review .review_box .review_card .review_text{
     text-align: center;
 }
+
+.review .review_box .review_card .review_text .name{
+    color: #000;
+    transition: 0.3s;
+}
