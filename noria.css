@@ -468,3 +468,13 @@ section .main_btn:hover i{
 .review .review_box .review_card:hover .review_text p{
     margin-top: 5px;
 }
+/*Order*/
+
+.order{
+    width: 100%;
+    height: 100vh;
+    padding: 70px 0;
+    background-image: url(image/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+}
