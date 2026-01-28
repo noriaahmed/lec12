@@ -27,3 +27,6 @@ section nav .logo img{
     cursor: pointer;
     margin: 7px 0;
 }
+section nav ul{
+    list-style: none;
+}
