@@ -438,3 +438,6 @@ section .main_btn:hover i{
     color: #000;
     transition: 0.3s;
 }
+.review .review_box .review_card:hover .review_text .name{
+    transform: translateY(-50px);
+}
