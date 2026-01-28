@@ -104,3 +104,8 @@ section .main_btn{
     cursor: pointer;
     padding: 12px 25px;
 }
+section .main_btn a{
+    color: #fff;
+    margin-right: 5px;
+    text-decoration: none;
+}
